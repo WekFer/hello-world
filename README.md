@@ -1,2 +1,2 @@
 # hello-world
-NO DESCRIP.
+A sandbox to learn GitHub operations. 
